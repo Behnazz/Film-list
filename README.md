@@ -1,3 +1,10 @@
+
+# Film list
+
+![a gif showing the app](https://github.com/Behnazz/Film-list/blob/master/Film%20list.gif?raw=true)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
